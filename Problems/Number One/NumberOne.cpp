@@ -88,16 +88,3 @@ struct Node{
     vector<TensorType> outputs;
     unordered_map<string, string> attrs;
 };
-
-
-
-
-
-
-
-
-
-int main() {
-	// your code goes here
-
-}
